@@ -4704,6 +4704,9 @@ a.close.disabled {
 .bg-primary {
   background-color: #242423 !important; }
 
+.bg-primary2 {
+  background-image: url(https://res.cloudinary.com/dox0nkwax/image/upload/e_brightness:-70/q_50/bg5_twffr5.jpg); }
+  
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
