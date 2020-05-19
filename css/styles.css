@@ -7404,6 +7404,10 @@ form .row:first-child .floating-label-form-group {
   padding-top: 6rem;
   padding-bottom: 4.5rem; }
 
+.contact {
+  background-color: #E8EDDF;
+}
+
 .page-section-heading {
   display: inline-block; }
 
