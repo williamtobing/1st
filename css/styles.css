@@ -4612,7 +4612,6 @@ a.close.disabled {
   margin-left: 15%;
   list-style: none; }
   .carousel-indicators li {
-    color: #242423;
     box-sizing: content-box;
     flex: 0 1 auto;
     width: 30px;
@@ -4621,7 +4620,7 @@ a.close.disabled {
     margin-left: 3px;
     text-indent: -999px;
     cursor: pointer;
-    background-color: #fff;
+    background-color: #242423;
     background-clip: padding-box;
     border-top: 10px solid transparent;
     border-bottom: 10px solid transparent;
