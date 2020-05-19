@@ -4612,6 +4612,7 @@ a.close.disabled {
   margin-left: 15%;
   list-style: none; }
   .carousel-indicators li {
+    color: #242423;
     box-sizing: content-box;
     flex: 0 1 auto;
     width: 30px;
