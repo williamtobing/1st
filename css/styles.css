@@ -7211,7 +7211,8 @@ h3 {
     color: #f5cb5c !important;
     font-size: 2rem; }
   .divider-custom.divider-light .divider-custom-line {
-    background-color: #fff; }
+    background-color: #fff;
+    border-color: #ffffff !important; }
   .divider-custom.divider-light .divider-custom-icon {
     color: #fff !important; }
 
