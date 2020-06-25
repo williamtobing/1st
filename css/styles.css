@@ -7397,12 +7397,14 @@ form .row:first-child .floating-label-form-group {
   height: 2rem; }
 
 .portfolio {
-  background-color: #E8EDDF;
+  /* background-color: #E8EDDF; */
+  background-color: #ffffff;
   padding-top: 6rem;
   padding-bottom: 4.5rem; }
 
 .contact {
-  background-color: #E8EDDF;
+  /* background-color: #E8EDDF; */
+  background-color: #ffffff;
 }
 
 .page-section-heading {
