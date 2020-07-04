@@ -30,6 +30,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -43,7 +44,7 @@
       <updated>1589718557962</updated>
       <workItem from="1589718561945" duration="4155000" />
       <workItem from="1589777014854" duration="934000" />
-      <workItem from="1593871974975" duration="1340000" />
+      <workItem from="1593871974975" duration="1471000" />
     </task>
     <servers />
   </component>
